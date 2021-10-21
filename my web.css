@@ -55,12 +55,6 @@ section {
   background-repeat: no-repeat;
   height: 35vh;
 }
-#list {
-  background-image: url("./to\ do\ list.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 35vh;
-}
 #code {
   background-image: url("./code.png");
   background-size: cover;
